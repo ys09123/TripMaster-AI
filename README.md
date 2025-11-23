@@ -24,40 +24,6 @@ TripMaster AI is an intelligent travel planning application that helps users gen
 ## 📂 Project Structure
 
 ```bash
-# 🌍 TripMaster AI
-
-TripMaster AI is an intelligent travel planning application that helps users generate personalized travel itineraries in seconds. By leveraging the power of AI, it curates custom trip plans including hotels, daily activities, and dining recommendations based on your preferences, budget, and travel companions.
-
-![TripMaster AI Banner](./Screenshots/landing.png)
-## 🚀 Live Demo
-
-Check out the live application here: **[TripMaster AI](https://trip-master-ai-orcin.vercel.app)**
-
-## ✨ Features
-
--   **AI-Powered Itineraries**: Generate day-by-day travel plans for any destination using Gemini AI.
--   **Smart Trip Creation**:
-    -   Select destination, duration, budget, and travel group size.
-    -   Interactive form validation.
--   **Detailed Trip View**:
-    -   **Hotel Recommendations**: Curated lists with images, geo-coordinates, and ratings.
-    -   **Daily Plan**: Morning, afternoon, and evening activity breakdown.
-    -   **Information Cards**: Best time to visit, estimated costs, and travel tips.
--   **User Trips**: Save and view your generated trip history.
--   **Responsive Design**: Optimized for both desktop and mobile devices.
-
-## 🛠️ Tech Stack
-
--   **Frontend**: [React](https://react.dev/) + [Vite](https://vitejs.dev/)
--   **Styling**: [Tailwind CSS](https://tailwindcss.com/)
--   **UI Components**: [Shadcn/UI](https://ui.shadcn.com/)
--   **AI Integration**: Google Gemini API
--   **Routing**: React Router DOM
--   **Map/Places**: Google Places API
-
-## 📂 Project Structure
-
-```bash
 TripMaster-AI/
 ├── public/              # Public static assets
 ├── src/
