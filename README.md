@@ -1,8 +1,6 @@
 # 🌍 TripMaster AI
 
 TripMaster AI is an intelligent travel planning application that helps users generate personalized travel itineraries in seconds. By leveraging the power of AI, it curates custom trip plans including hotels, daily activities, and dining recommendations based on your preferences, budget, and travel companions.
-
-![TripMaster AI Banner](./Screenshots/landing.png)
 ## 🚀 Live Demo
 
 Check out the live application here: **[TripMaster AI]((https://trip-master-qnz22sajp-ys09123s-projects.vercel.app/))**
